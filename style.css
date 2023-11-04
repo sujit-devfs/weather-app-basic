@@ -17,6 +17,13 @@ body{
     padding: 40px 35px;
     text-align: center;
 }
+.title{
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 28px;
+    font-weight: 400;
+    color: antiquewhite
+}
 .search{
     width: 100%;
     display: flex;
